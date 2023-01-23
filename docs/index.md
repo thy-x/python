@@ -1,0 +1,7 @@
+# Python 🐍
+
+```{toctree}
+:glob:
+
+*/index
+```
